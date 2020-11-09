@@ -1,0 +1,12 @@
+{
+	"name": "yregistry-module",
+	"version": "1.0.0",
+	"description": "Module for  using and interacting with the Yearn product suite.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["defi", "ethereum", "yearn", "yfi", "erc20", "staking", "smart contracts"],
+	"author": "the yearn contributors",
+	"license": "ISC"
+}
